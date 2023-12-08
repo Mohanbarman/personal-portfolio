@@ -322,7 +322,6 @@ const Featured = () => {
               tech
               github
               external
-              cta
             }
             html
           }
@@ -369,6 +368,7 @@ const Featured = () => {
                     </h3>
 
                     <div
+                      style={{ textAlign: 'left' }}
                       className="project-description"
                       dangerouslySetInnerHTML={{ __html: html }}
                     />
