@@ -1,6 +1,10 @@
 const config = require('./src/config');
+const adapter = require('gatsby-adapter-netlify');
 
 module.exports = {
+  adapter: adapter({
+    excludeDatastoreFromEngineFunction: false,
+  }),
   siteMetadata: {
     title: 'Mohan Barman',
     description: '',

@@ -34,6 +34,7 @@
     "animejs": "^3.1.0",
     "babel-plugin-styled-components": "^1.12.0",
     "gatsby": "^3.4.1",
+    "gatsby-adapter-netlify": "^1.0.4",
     "gatsby-plugin-google-analytics": "^3.4.0",
     "gatsby-plugin-image": "^1.4.0",
     "gatsby-plugin-manifest": "^3.4.0",
@@ -75,8 +76,5 @@
     "husky": "^6.0.0",
     "lint-staged": "^10.1.2",
     "prettier": "^2.2.1"
-  },
-  "resolutions": {
-    "graphql": "^14.6.0"
   }
 }
