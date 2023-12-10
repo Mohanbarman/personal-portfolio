@@ -1,7 +1,7 @@
 ---
 date: '2020-10-01'
 title: 'Full Stack Developer'
-company: 'Codes Black Services'
+company: 'Codesblack'
 location: 'Delhi, India'
 range: 'Aug - Nov 2020 (Internship) and Nov 2020 - Apr 2021 (Full time)'
 url: 'https://www.thecompanycheck.com/company/codes-black-services-private-limited/U72900DL2020PTC366693'
