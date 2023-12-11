@@ -3,7 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Mohan Barman',
-    description: '',
+    description: 'Personal portfolio website of Mohan Barman',
     siteUrl: 'https://mohanbarman.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
