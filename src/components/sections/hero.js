@@ -67,7 +67,7 @@ const Hero = () => {
     <>
       <p>
         I am a self-taught programmer who enjoys building software applications, with extensive
-        experience in developing backend solutions .
+        experience in developing backend solutions.
       </p>
     </>
   );
