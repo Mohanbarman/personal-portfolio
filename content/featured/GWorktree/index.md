@@ -9,6 +9,6 @@ tech:
   - Neovim
 ---
 
-- Developed a neovim plugin in lua for managing with git worktrees.
+- Developed a neovim plugin in lua for managing git worktrees with neovim.
 - It supports creating and removing of a worktree.
-- Switch between worktree directories right from neovim.
+- Ability to switch between worktree directories right from neovim with the power of telescope.
