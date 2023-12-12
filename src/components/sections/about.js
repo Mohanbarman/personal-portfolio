@@ -147,10 +147,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi there! I'm Mohan, and I find joy in crafting digital experiences on the internet.
-              My programming journey began in 2019 during my high schooling and started my professional career in 2020, I
-              kickstarted my career as a frontend developer, but soon discovered my true passion for
-              backend applications and servers.
+              Hi there! I'm Mohan, passionate about shaping digital experiences online. My coding journey kicked off in 2019 during high school, and in 2020, I embarked on my professional path. While I initially started as a frontend developer, my true calling emerged in backend applications and servers.
             </p>
 
             <p>
